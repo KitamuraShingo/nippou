@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+body {
+  font-size:30px;
+}
+p:not(:first-of-type ){
+  margin-top: 20px;
+}
